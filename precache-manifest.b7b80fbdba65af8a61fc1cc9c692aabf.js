@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb4d817cce12412350b01f881bd14910",
+    "revision": "3dd6f4f9198728f70594bb568a042162",
     "url": "/dark-chat/index.html"
   },
   {
-    "revision": "dc8260cee50d1d9dafe9",
-    "url": "/dark-chat/static/css/main.df04305f.chunk.css"
+    "revision": "2b5d6b476c4fc33fc646",
+    "url": "/dark-chat/static/css/main.dec824d5.chunk.css"
   },
   {
     "revision": "7daf2c502e56c6f740c2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dark-chat/static/js/2.7787211d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc8260cee50d1d9dafe9",
+    "revision": "2b5d6b476c4fc33fc646",
     "url": "/dark-chat/static/js/main.9dc65205.chunk.js"
   },
   {

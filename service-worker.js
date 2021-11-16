@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dark-chat/precache-manifest.b7b80fbdba65af8a61fc1cc9c692aabf.js"
+  "/dark-chat/precache-manifest.d9ec63510b261b54846fd2dcc087c2c3.js"
 );
 
 self.addEventListener('message', (event) => {

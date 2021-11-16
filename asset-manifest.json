@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dark-chat/static/css/main.df04305f.chunk.css",
+    "main.js": "/dark-chat/static/js/main.9dc65205.chunk.js",
+    "main.js.map": "/dark-chat/static/js/main.9dc65205.chunk.js.map",
+    "runtime-main.js": "/dark-chat/static/js/runtime-main.97ed2bc7.js",
+    "runtime-main.js.map": "/dark-chat/static/js/runtime-main.97ed2bc7.js.map",
+    "static/js/2.7787211d.chunk.js": "/dark-chat/static/js/2.7787211d.chunk.js",
+    "static/js/2.7787211d.chunk.js.map": "/dark-chat/static/js/2.7787211d.chunk.js.map",
+    "index.html": "/dark-chat/index.html",
+    "precache-manifest.0a32e769cc0dc14addb08749ba263123.js": "/dark-chat/precache-manifest.0a32e769cc0dc14addb08749ba263123.js",
+    "service-worker.js": "/dark-chat/service-worker.js",
+    "static/css/main.df04305f.chunk.css.map": "/dark-chat/static/css/main.df04305f.chunk.css.map",
+    "static/js/2.7787211d.chunk.js.LICENSE.txt": "/dark-chat/static/js/2.7787211d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97ed2bc7.js",
+    "static/js/2.7787211d.chunk.js",
+    "static/css/main.df04305f.chunk.css",
+    "static/js/main.9dc65205.chunk.js"
+  ]
+}
